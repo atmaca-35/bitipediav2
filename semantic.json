@@ -1,0 +1,18 @@
+{
+    "o": {
+        "type": "pronoun",
+        "description": "he, she, it.<br><br><b>‹</b> <i class='purple'>Middle</i> o<br><b>‹</b> <i class='purple'>Old</i> ol<br><b>‹</b> <i class='purple'>Proto</i> *ol “demonstrative adjective and third person singular pronoun”"
+    },
+    "ağrı": {
+        "type": "adjective",
+        "description": "pain, ache.<br><br><b>‹</b> <i class='purple'>Ottoman</i> آغری<br><b>‹</b> <i class='purple'>Middle</i> aġrı<br><b>‹</b> <i class='purple'>Old</i> aġrıġ<br><b>‹</b> <i class='purple'>Proto</i> *aġrıġ<br><b>‹</b> <i class='purple'>Proto</i> *aġrı- *+(U)ġ<br><b>‹</b> <i class='purple'>Proto</i> aġŕı-<br><b>‹</b> <i class='purple'>Proto</i> *aġŕı-<br>It is common for the U vowel that gets stuck in between to disappear.<br><b>‹</b> <i class='purple'>Proto</i> *aġıŕı-<br><b>‹</b> <i class='purple'>Proto</i> *aġıŕ +I-<br><b>‹</b> <i class='purple'>Proto</i> *aġıŕ “mouth; feeding and vocal organ”<br><b>‹</b> <i class='purple'>Proto</i> *aġ- *+(U)ŕ<br><b>‹</b> <i class='purple'>Proto</i> *aġ-"
+    },
+    "uymak": {
+        "type": "verb",
+        "description": "<i>(intransitive)</i> to follow, to go with.<br><br><b>‹</b> <i class='purple'>Middle</i> uy-<br>Standard /ḏ/ › /y/ transformation.<br><b>‹</b> <i class='purple'>Old</i> uḏ-<br><b>‹</b> <i class='purple'>Proto</i> *uḏ- “to follow”"
+    },
+    "iz": {
+        "type": "noun",
+        "description": "footmark, scar.<br><br><b>‹</b> <i class='purple'>Old</i> iz<br>Standard /ŕ/ › /z/ transformation.<br><b>‹</b> <i class='purple'>Proto</i> *iŕ “footprint”<br><b>‹</b> <i class='purple'>Proto</i> *i- *+(U)ŕ <br><b>‹</b> <i class='purple'>Proto</i> *i-<br>Standard /ḏ/ › /∅/ transformation.<br><b>‹</b> <i class='purple'>Proto</i> *iḏ- “to walk”"
+    }
+}
